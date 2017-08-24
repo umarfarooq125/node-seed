@@ -1,0 +1,16 @@
+2016-10-31T16:57:54.233Z - error: functionName : userService.getUser - err 1, errorMessage : Cast to ObjectId failed for value "male" at path "_id"
+2016-10-31T17:05:45.335Z - error: functionName : userService.getUser - err 1, errorMessage : Cast to ObjectId failed for value "male" at path "_id"
+2016-10-31T17:06:14.589Z - error: functionName : userService.getUser - err 1, errorMessage : Cast to ObjectId failed for value "male" at path "_id"
+2016-10-31T17:07:04.937Z - error: functionName : userService.getUser - err 1, errorMessage : Cast to ObjectId failed for value "male" at path "_id"
+2016-10-31T17:14:22.513Z - error: functionName : userService.getUserProfile - err 1, errorMessage : Cast to ObjectId failed for value "string@email.com" at path "_id"
+2016-11-06T17:01:28.793Z - error: functionName : eventServices.createEvent - err 3, errorMessage : Users validation failed
+2016-11-06T17:02:39.517Z - error: functionName : eventServices.createEvent - err 3, errorMessage : Users validation failed
+2016-11-06T17:04:39.663Z - error: functionName : eventServices.createEvent - err 3, errorMessage : Users validation failed
+2016-11-06T17:11:17.278Z - error: functionName : eventServices.createEvent - err 3, errorMessage : Users validation failed
+2016-12-07T21:10:44.017Z - error: functionName : chargeServices.chargeAmount - err 1, errorMessage : Cast to ObjectId failed for value "acct_19MVn3FmDZ2cAtKr" at path "_id"
+2016-12-10T18:13:23.096Z - error: functionName : userService.getNearby - err 2, errorMessage : more than one 2dsphere index, not sure which to run geoNear on
+2016-12-10T18:13:51.246Z - error: functionName : userService.getNearby - err 2, errorMessage : more than one 2dsphere index, not sure which to run geoNear on
+2016-12-11T07:34:02.658Z - error: functionName : userService.getNearby - err 2, errorMessage : more than one 2dsphere index, not sure which to run geoNear on
+2016-12-11T07:34:37.899Z - error: functionName : userService.getNearby - err 2, errorMessage : can't find ns
+2016-12-11T07:35:16.674Z - error: functionName : userService.getNearby - err 2, errorMessage : no geo indices for geoNear
+2016-12-11T07:37:36.192Z - error: functionName : userService.getNearby - err 2, errorMessage : no geo indices for geoNear
